@@ -10,6 +10,12 @@ IoTにおいて低消費電力回路を活用し機器を製作する際は、�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1706cp/)!
 
+## Raspberry Pi用ソフトウェアについて
+
+[こちら](https://toragi.cqpub.co.jp/tabid/831/Default.html)のページの"2017年6月号"の欄にある"特集 第3部 Room3　ハイパーμアンペア・オシロ"より  
+Raspberry Pi用のソフトウェア類のソースコードをダウンロードいただけます。  
+別途、Web解説記事をご覧の上で動作させてくださいませ。  
+
 ## 製品仕様
 【対応OS】Raspbian  
 【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B／  
