@@ -10,6 +10,8 @@ IoTにおいて低消費電力回路を活用し機器を製作する際は、�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1706cp/)!
 
+## Q&A(FAQ.md)
+
 ## Raspberry Pi用ソフトウェアについて
 
 [こちら](https://toragi.cqpub.co.jp/tabid/831/Default.html)のページの"2017年6月号"の欄にある"特集 第3部 Room3　ハイパーμアンペア・オシロ"より  
